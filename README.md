@@ -4,4 +4,5 @@ A small bash utility to do a 2-pass encoding of ffmpeg supported video formats t
 More info can be found on the following articles:
 
 http://www.3am.it/video-streaming-webm-mp4-part1/
+
 http://www.3am.it/video-streaming-webm-mp4-part2/
